@@ -1,2 +1,2 @@
-# opc
-一人公司基础设施
+#### 开源
+- [AiToEarn](https://github.com/yikart/AiToEarn)
